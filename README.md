@@ -1,22 +1,20 @@
 # oci
-Oracle Cloud Infrastructure 
+Oracle Cloud Integration Agent
 
-Welcome to our Oracle Cloud Infrastructure Repository!
+Oracle Integration Agent Docker Deployment Repository
 
-This GitHub account serves as a hub for all things related to Oracle Cloud Infrastructure (OCI), DevOps practices, and various utilities to streamline your cloud operations using OCI services.
+Welcome to the Oracle Integration Agent Docker Deployment Repository! This repository provides Docker configurations and deployment scripts to facilitate the setup and deployment of Oracle Integration Agent within Docker containers.
 
-What to Expect:
+What is Oracle Integration Agent?
 
-OCI Tutorials: Find comprehensive tutorials and guides to help you navigate the intricacies of Oracle Cloud Infrastructure. From setting up your first virtual machine to advanced networking configurations, we've got you covered.
+Oracle Integration Agent is a lightweight, secure agent that enables connectivity between Oracle Integration Cloud (OIC) and on-premises applications, databases, and systems. It facilitates seamless integration between cloud and on-premises environments, allowing you to build, monitor, and manage integrations effectively.
 
-DevOps Automation: Explore code snippets, scripts, and tools aimed at automating your DevOps workflows on OCI. Whether it's provisioning resources, deploying applications, or managing infrastructure as code, our repository offers solutions to enhance your efficiency.
+Getting Started
 
-OCI Best Practices: Stay updated with the latest best practices for leveraging OCI services effectively. We share insights, tips, and recommendations to optimize your cloud infrastructure and operations for performance, security, and cost-efficiency.
+To deploy Oracle Integration Agent using Docker, follow these simple steps:
 
-Community Contributions: Join a vibrant community of developers, engineers, and cloud enthusiasts. Contribute your expertise, share your experiences, and collaborate on projects to foster continuous learning and improvement.
+Clone the Repository: Clone this repository to your local machine using the following command:
 
-Get Started:
-
-Explore our repositories to discover a wealth of resources tailored to your OCI journey.
-Fork, clone, or download our code to kickstart your projects and experiments.
-Engage with our community through discussions, issues, and pull requests. Your feedback and contributions are highly valued and encouraged.
+bash
+Copy code
+git clone https://github.com/paulononato/oracle-integration-agent-docker.git
